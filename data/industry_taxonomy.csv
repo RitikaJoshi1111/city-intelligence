@@ -1,0 +1,56 @@
+industry,subcategory,priority
+Furniture,Furniture Manufacturers,High
+Furniture,Furniture Exporters,High
+Furniture,Furniture Suppliers,Medium
+Furniture,Office Furniture Manufacturers,Medium
+Furniture,Wooden Furniture Manufacturers,Medium
+
+Handicrafts,Handicraft Manufacturers,High
+Handicrafts,Handicraft Exporters,High
+Handicrafts,Wooden Handicrafts,Medium
+Handicrafts,Metal Handicrafts,Medium
+Handicrafts,Home Decor Manufacturers,Medium
+
+Textile,Textile Manufacturers,High
+Textile,Textile Exporters,High
+Textile,Garment Manufacturers,High
+Textile,Fabric Suppliers,Medium
+Textile,Textile Processing Units,Medium
+
+Marble & Stone,Marble Manufacturers,High
+Marble & Stone,Granite Manufacturers,High
+Marble & Stone,Sandstone Manufacturers,Medium
+Marble & Stone,Stone Exporters,Medium
+
+Steel & Metal,Steel Industries,High
+Steel & Metal,Steel Fabricators,High
+Steel & Metal,Metal Industries,Medium
+Steel & Metal,Aluminium Fabricators,Medium
+
+Chemical,Chemical Industries,High
+Chemical,Chemical Manufacturers,High
+Chemical,Chemical Suppliers,Medium
+
+Packaging,Packaging Manufacturers,High
+Packaging,Packaging Suppliers,Medium
+Packaging,Corrugated Box Manufacturers,Medium
+
+Machinery,Industrial Machinery,High
+Machinery,Machine Manufacturers,High
+Machinery,Industrial Equipment Suppliers,Medium
+
+Logistics,Logistics Companies,High
+Logistics,Transport Companies,High
+Logistics,Warehousing Companies,Medium
+Logistics,Freight Forwarders,Medium
+
+Technology,IT Companies,High
+Technology,Software Companies,High
+Technology,AI Companies,Medium
+
+Export,Export Houses,High
+Export,Import Export Companies,High
+
+Manufacturing,Factories,High
+Manufacturing,Industrial Companies,High
+Manufacturing,Manufacturing Companies,High
